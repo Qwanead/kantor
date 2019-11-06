@@ -1,0 +1,25 @@
+{
+  "name": "kantor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwanead/kantor.git"
+  },
+  "author": "Qwanead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qwanead/kantor/issues"
+  },
+  "homepage": "https://github.com/Qwanead/kantor#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
