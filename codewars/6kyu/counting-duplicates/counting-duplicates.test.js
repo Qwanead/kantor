@@ -1,4 +1,4 @@
-const duplicateCount = require('./counting_duplicates');
+const duplicateCount = require('./counting-duplicates');
 
 describe('определяет самую часто встречающеюся букву', () => {
   test(`'' => 0`, () => {
